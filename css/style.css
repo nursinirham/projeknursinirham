@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'gotham rounded';
+	src: url(../fonts/gotham-rounded-italic.woff);
+	font-style: italic;
+}
+@font-face {
+	font-family: 'gotham rounded';
+	src: url(../fonts/gotham-rounded-medium.woff);
+	font-weight: 500;
+}
+@font-face {
+	font-family: 'gotham rounded';
+	src: url(../fonts/gotham-rounded-regular.woff);
+	font-weight: 400;
+}
+.font-medium {
+	font-family: 'gotham rounded','roboto',sans-serif;
+	font-weight: 500;
+}
+.font-regular {
+	font-family: 'gotham rounded','roboto',sans-serif;
+	font-weight: 400;
+}
+.font-light {
+	font-family: 'gotham rounded','roboto',sans-serif;
+	font-weight: 400;	
+}
+.font-italic {
+	font-family: 'gotham rounded','roboto',sans-serif;
+	font-style: italic;
+}
